@@ -31,3 +31,6 @@
 `npm run dev`
 
 打开 `/`；点击“立即扫描”即可触发公开来源扫描。
+
+## Deployment
+This repository is the canonical source for the Vercel `information-radar` project. Deploy production from `main`.
